@@ -419,14 +419,6 @@ We have a list of [help wanted](https://github.com/calcom/cal.com/issues?q=is:is
   </picture>
 </a>
 
-<!-- CONTRIBUTORS -->
-
-### Contributors
-
-<a href="https://github.com/calcom/cal.com/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=calcom/cal.com" />
-</a>
-
 <!-- TRANSLATIONS -->
 
 ### Translations
@@ -587,14 +579,6 @@ following
 14. Copy Messaging Service SID to your `.env` file into the `TWILIO_MESSAGING_SID` field
 15. Create a verify service
 16. Copy Verify Service SID to your `.env` file into the `TWILIO_VERIFY_SID` field
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the [AGPLv3 License](https://github.com/calcom/cal.com/blob/main/LICENSE). See `LICENSE` for more information.
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
